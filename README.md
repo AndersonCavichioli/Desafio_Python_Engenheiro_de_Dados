@@ -72,6 +72,4 @@ Você encontrará o conjunto de dados de documentos no diretório *dataset* do r
 
 Você deve usar ou **PySpark ou Python puro** para estes *Jobs*
 
-Em caso de dúvidas, enviar email para: **rangel.souza@projeto22.com.br**
-
 __Boa Sorte!__
